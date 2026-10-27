@@ -1,5 +1,8 @@
 # Proyecto del equipo
 
-Nombre del proyecto: por definir
+Nombre del proyecto: Ya lo defino yo 
 
 ## Miembros
+
+* Alejandro Fernnnnn
+
