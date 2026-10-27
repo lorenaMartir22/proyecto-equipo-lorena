@@ -1,8 +1,6 @@
 # Proyecto del equipo
 
-Nombre del proyecto: Ya lo defino yo 
+Nombre del proyecto: LAA
 
 ## Miembros
-
-* Alejandro Fernnnnn
-
+- Agustín
