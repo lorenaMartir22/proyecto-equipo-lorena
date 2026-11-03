@@ -1,6 +1,9 @@
 # Proyecto del equipo
 
-Nombre del proyecto: LAA
+Nombre del proyecto: Proyecto Alejandro
 
 ## Miembros
-- Agustín
+
+* Agustín
+* Alejandro Fe
+
