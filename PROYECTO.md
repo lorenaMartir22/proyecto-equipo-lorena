@@ -1,6 +1,7 @@
 # Proyecto del equipo
 
-Nombre del proyecto: LAA
+Nombre del proyecto: ConectaTech
 
 ## Miembros
-- Agustín
+
+* Lorena
