@@ -5,4 +5,3 @@ Nombre del proyecto: ConectaTech
 ## Miembros
 
 * Lorena
-
